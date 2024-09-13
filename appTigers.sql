@@ -12,7 +12,7 @@ CREATE TABLE Clientes (
     direccion VARCHAR(255)
 );
 
--- Crear tabla del producto
+-- Crear tabla de los productos
 CREATE TABLE Productos (
     id_producto INT AUTO_INCREMENT PRIMARY KEY,
     nombre VARCHAR(100) NOT NULL,
