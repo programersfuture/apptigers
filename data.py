@@ -122,7 +122,7 @@ class AppTigers:
             self.cursor.execute(query)
             resultados = self.cursor.fetchall()
 
-            table = tabulate(resultados, headers=["ID Detalle", "ID Pedido", "ID Producto", "Cantidad", "Subtotal"], tablefmt="grid")
+           table = tabulate(resultados, headers=["ID Detalle", "ID Pedido", "ID Producto", "Cantidad", "Subtotal"], tablefmt="grid")
             print("\nDetalles de Pedidos:")
             print(table)
         except mysql.connector.Error as e:
