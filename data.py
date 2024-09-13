@@ -64,11 +64,11 @@ class AppTigers:
         except mysql.connector.Error as e:
             print(f"❌ Error al registrar producto: {e}")
 
-   def mostrarProductos(self):
-        try:
-            query = "SELECT * FROM Productos"
-            self.cursor.execute(query)
-            resultados = self.cursor.fetchall()
+   def cerrarConexion(self):
+        if self.conexion.is_connected():
+            self.cursor.close()
+            self.conexion.close()
+            print("✔ Conexión cerrada.")
 
             table = tabulate(resultados, headers=["ID Producto", "Nombre", "Precio"], tablefmt="grid")
             print("\nProductos Disponibles:")
@@ -116,11 +116,11 @@ class AppTigers:
         except mysql.connector.Error as e:
             print(f"❌ Error al registrar detalle de pedido: {e}")
 
-    def mostrarDetallesPedidos(self):
-        try:
-            query = "SELECT * FROM DetallesPedidos"
-            self.cursor.execute(query)
-            resultados = self.cursor.fetchall()
+    def cerrarConexion(self):
+        if self.conexion.is_connected():
+            self.cursor.close()
+            self.conexion.close()
+            print("✔ Conexión cerrada.")
 
          table = tabulate(resultados, headers=["ID Detalle", "ID Pedido", "ID Producto", "Cantidad", "Subtotal"], tablefmt="grid")
             print("\nDetalles de Pedidos:")
