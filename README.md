@@ -1,2 +1,2 @@
-# apptigers
+# appTigers
 Aplicación para pedir comida 
