@@ -12,7 +12,7 @@ La base de datos de la aplicación tiene cuatro tablas principales:
 - **Pedidos:** Registra los pedidos realizados por los clientes, incluyendo la fecha del pedido.
 - **DetallesPedidos:** Muestra los productos incluidos en cada pedido, la cantidad y el subtotal.
 
-
+---
 ***Descripción de la Aplicación***
 La aplicación permite:
 
