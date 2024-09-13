@@ -38,7 +38,6 @@ CREATE TABLE DetallesPedidos (
     FOREIGN KEY (id_producto) REFERENCES Productos(id_producto)
 );
 
--- Inserta datos de la tabla
 INSERT INTO Clientes (nombre, telefono, direccion) VALUES
 ('Juan Pérez', '123456789', 'Av. Principal 123, Ciudad'),
 ('Ana Gómez', '987654321', 'Calle Secundaria 456, Ciudad'),
