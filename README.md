@@ -22,7 +22,7 @@ La aplicación permite:
 - **Registrar Pedidos:** Crear nuevos pedidos y asignarlos a clientes.
 - **Detalles de Pedidos:** Ver qué productos están en cada pedido y cuánto cuesta cada uno.
 
-**Beneficios y Ventajas**
+Beneficios y Ventajas
 - **Más Rápido:** Facilita el proceso de registro y gestión de pedidos.
 - **Información Accesible:** Permite ver rápidamente los datos de clientes, productos y pedidos.
 - **Menos Errores:** Reduce los errores en los pedidos y cálculos.
