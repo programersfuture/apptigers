@@ -99,6 +99,6 @@ def main():
         if app:
             app.cerrarConexion()
 
-# Agregar bloque para que main sea el punto de entrada
+# Agregar bloque para que main sea el punto de entrada 
 if __name__ == "__main__":
     main()
