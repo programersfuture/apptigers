@@ -2,6 +2,7 @@
 ***Introducción***
 ---
 Hemos desarrollado una aplicacion para gestionar pedidos en un restaurante de comida rapida. Esta aplicacion ayuda a registrar pedidos, gestionar clientes y productos de manera rapida y organizada. En este informe, vamos a explicar como funciona la base de datos de la aplicacion, que hace la aplicacion y los beneficios que ofrece.
+
 ***Modelo Relacional***
 -----
 La base de datos de la aplicación tiene cuatro tablas principales:
