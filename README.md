@@ -7,10 +7,14 @@ Hemos desarrollado una aplicación para gestionar pedidos en un restaurante de c
 -----
 La base de datos de la aplicación tiene cuatro tablas principales:
 
-**Clientes:** Guarda información sobre los clientes, como su nombre, teléfono y dirección.
-**Productos:** Contiene información sobre los productos del menú, incluyendo el nombre y el precio.
-**Pedidos:** Registra los pedidos realizados por los clientes, incluyendo la fecha del pedido.
-**DetallesPedidos:** Muestra los productos incluidos en cada pedido, la cantidad y el subtotal.
+- **Clientes:** Guarda información sobre los clientes, como su nombre, teléfono y dirección.
+
+- **Productos:** Contiene información sobre los productos del menú, incluyendo el nombre y el precio.
+
+- **Pedidos:** Registra los pedidos realizados por los clientes, incluyendo la fecha del pedido.
+
+- **DetallesPedidos:** Muestra los productos incluidos en cada pedido, la cantidad y el subtotal.
+
 
 ***Descripción de la Aplicación***
 La aplicación permite:
