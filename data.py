@@ -64,7 +64,7 @@ class AppTigers:
         except mysql.connector.Error as e:
             print(f"❌ Error al registrar producto: {e}")
 
-    def mostrarProductos(self):
+   def mostrarProductos(self):
         try:
             query = "SELECT * FROM Productos"
             self.cursor.execute(query)
@@ -108,7 +108,7 @@ class AppTigers:
         cantidad = int(input("Ingrese la cantidad: "))
         subtotal = float(input("Ingrese el subtotal: "))
 
-        try:
+       try:
             query = "INSERT INTO DetallesPedidos (id_pedido, id_producto, cantidad, subtotal) VALUES (%s, %s, %s, %s)"
             self.cursor.execute(query, (id_pedido, id_producto, cantidad, subtotal))
             self.conexion.commit()
