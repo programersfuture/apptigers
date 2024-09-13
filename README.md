@@ -5,7 +5,7 @@ Hemos desarrollado una aplicacion para gestionar pedidos en un restaurante de co
 
 ***Contexto del Problema***
 
-Los restaurantes de comida rápida enfrentan desafíos constantes en la gestión de pedidos, lo que puede resultar en tiempos de espera prolongados, errores en los pedidos y una experiencia insatisfactoria para el cliente. La falta de un sistema automatizado dificulta el manejo eficiente de la información, lo que puede afectar la productividad y la satisfacción del cliente.
+Los restaurantes de comida rápida enfrentan desafíos constantes en la gestión de pedidos, lo que puede resultar en tiempos de espera prolongados, errores en los pedidos y una experiencia insatisfactoria para el cliente. La falta de un sistema automatizado dificulta el manejo de la información, lo que puede afectar la productividad y la satisfacción del cliente.
 
 ***Modelo Relacional***
 -----
@@ -15,6 +15,7 @@ La base de datos de la aplicación tiene cuatro tablas principales:
 - **Productos:** Contiene información sobre los productos del menú, incluyendo el nombre y el precio.
 - **Pedidos:** Registra los pedidos realizados por los clientes, incluyendo la fecha del pedido.
 - **DetallesPedidos:** Muestra los productos incluidos en cada pedido, la cantidad y el subtotal.
+- 
 ![modelo](https://github.com/user-attachments/assets/d0657960-ccba-4377-a166-c1c0ecaf2555)
 
 ---
