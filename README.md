@@ -29,5 +29,5 @@ La aplicación permite:
 - **Fácil de Usar:** La interfaz es sencilla y fácil de manejar.
 - **Mejora la Experiencia del Cliente:** Hace que el proceso de pedido sea más ágil.
 
-**Conclusión**
+
 La aplicación mejora la forma en que se gestionan los pedidos en un restaurante de comida rápida, haciendo el proceso más rápido y organizado. Es fácil de usar y ayuda a reducir errores, lo que beneficia tanto a los empleados como a los clientes.
