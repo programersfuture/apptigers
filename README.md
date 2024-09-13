@@ -24,10 +24,10 @@ La aplicación permite:
 
 Beneficios y Ventajas
 - **Más Rápido:** Facilita el proceso de registro y gestión de pedidos.
-- **Información Accesible:** Permite ver rápidamente los datos de clientes, productos y pedidos.
+- **Información Accesible:** Permite ver rápidamente los datos de clientes, productos y pedidos. 
 - **Menos Errores:** Reduce los errores en los pedidos y cálculos.
 - **Fácil de Usar:** La interfaz es sencilla y fácil de manejar.
-- **Mejora la Experiencia del Cliente:** Hace que el proceso de pedido sea más facil y util.
+- **Mejora la Experiencia del Cliente:** Hace que el proceso de pedido sea más facil y útil.
 
 
 La aplicación mejora la forma en que se gestionan los pedidos en un restaurante de comida rápida, haciendo el proceso más rápido y organizado. Es fácil de usar y ayuda a reducir errores, lo que beneficia tanto a los empleados como a los clientes.
