@@ -12,7 +12,7 @@ CREATE TABLE Clientes (
     direccion VARCHAR(255)
 );
 
--- Crear tabla de Productos
+-- Crear tabla del producto
 CREATE TABLE Productos (
     id_producto INT AUTO_INCREMENT PRIMARY KEY,
     nombre VARCHAR(100) NOT NULL,
@@ -38,7 +38,7 @@ CREATE TABLE DetallesPedidos (
     FOREIGN KEY (id_producto) REFERENCES Productos(id_producto)
 );
 
--- Inserta datos en la tabla Clientes
+-- Inserta datos de la tabla
 INSERT INTO Clientes (nombre, telefono, direccion) VALUES
 ('Juan Pérez', '123456789', 'Av. Principal 123, Ciudad'),
 ('Ana Gómez', '987654321', 'Calle Secundaria 456, Ciudad'),
