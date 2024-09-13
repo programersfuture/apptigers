@@ -1,4 +1,4 @@
-# appTigers
+# AppTigers
 ***Introducción***
 ---
 Hemos desarrollado una aplicación para gestionar pedidos en un restaurante de comida rápida. Esta aplicación ayuda a registrar pedidos, gestionar clientes y productos de manera rápida y organizada. En este informe, vamos a explicar cómo funciona la base de datos de la aplicación, qué hace la aplicación y los beneficios que ofrece
