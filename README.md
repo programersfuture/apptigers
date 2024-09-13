@@ -3,6 +3,10 @@
 ---
 Hemos desarrollado una aplicacion para gestionar pedidos en un restaurante de comida rapida. Esta aplicacion ayuda a registrar pedidos, gestionar clientes y productos de manera rapida y organizada. En este informe. 
 
+***Contexto del Problema***
+
+Los restaurantes de comida rápida enfrentan desafíos constantes en la gestión de pedidos, lo que puede resultar en tiempos de espera prolongados, errores en los pedidos y una experiencia insatisfactoria para el cliente. La falta de un sistema automatizado dificulta el manejo eficiente de la información, lo que puede afectar la productividad y la satisfacción del cliente.
+
 ***Modelo Relacional***
 -----
 La base de datos de la aplicación tiene cuatro tablas principales:
@@ -31,4 +35,5 @@ Beneficios y Ventajas
 - **Mejora la Experiencia del Cliente:** Hace que el proceso de pedido sea más facil y útil.
 
 
-La aplicación mejora la forma en que se gestionan los pedidos en un restaurante de comida rápida, haciendo el proceso más rápido y organizado. Es fácil de usar y ayuda a reducir errores, lo que beneficia tanto a los empleados como a los clientes.
+**Conclusión**
+Apptigers representa una solución efectiva para los desafíos comunes en la gestión de pedidos en restaurantes de comida rápida. La aplicación mejora la organización, reduce errores y optimiza los tiempos de servicio, beneficiando tanto a los empleados como a los clientes. Su diseño centrado en la facilidad de uso y la eficiencia operativa hace de Apptigers una herramienta valiosa para cualquier restaurante que busque mejorar sus procesos de gestión de pedidos.
