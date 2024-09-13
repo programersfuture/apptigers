@@ -11,6 +11,7 @@ La base de datos de la aplicación tiene cuatro tablas principales:
 - **Productos:** Contiene información sobre los productos del menú, incluyendo el nombre y el precio.
 - **Pedidos:** Registra los pedidos realizados por los clientes, incluyendo la fecha del pedido.
 - **DetallesPedidos:** Muestra los productos incluidos en cada pedido, la cantidad y el subtotal.
+![modelo](https://github.com/user-attachments/assets/d0657960-ccba-4377-a166-c1c0ecaf2555)
 
 ---
 ***Descripción de la Aplicación***
