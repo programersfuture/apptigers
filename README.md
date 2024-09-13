@@ -14,6 +14,7 @@ La base de datos de la aplicación tiene cuatro tablas principales:
 
 ---
 ***Descripción de la Aplicación***
+--
 La aplicación permite:
 
 - **Registrar Clientes:** Guardar los datos de los clientes.
