@@ -45,7 +45,7 @@ INSERT INTO Clientes (nombre, telefono, direccion) VALUES
 ('María Martínez', '321654987', 'Calle Cuarta 101, Ciudad'),
 ('Laura Sánchez', '654123789', 'Av. Quinta 202, Ciudad');
 
--- Inserta datos en la tabla Productos
+-- Insertar datos en la tabla Productos
 INSERT INTO Productos (nombre, precio) VALUES
 ('Hamburguesa Clásica', 5.00),
 ('Papas Fritas', 2.50),
@@ -53,7 +53,7 @@ INSERT INTO Productos (nombre, precio) VALUES
 ('Ensalada', 3.00),
 ('Pizza', 8.00);
 
--- Inserta datos en la tabla Pedidos
+-- Insertar datos en la tabla Pedidos
 INSERT INTO Pedidos (id_cliente, fecha_pedido) VALUES
 (1, '2024-09-15'),
 (2, '2024-09-16'),
@@ -61,7 +61,7 @@ INSERT INTO Pedidos (id_cliente, fecha_pedido) VALUES
 (4, '2024-09-18'),
 (5, '2024-09-19');
 
--- Inserta datos en la tabla DetallesPedidos
+-- Insertar datos en la tabla DetallesPedidos
 INSERT INTO DetallesPedidos (id_pedido, id_producto, cantidad, subtotal) VALUES
 (1, 1, 2, 10.00),   -- Hamburguesa Clásica x2
 (1, 2, 1, 2.50),    -- Papas Fritas x1
