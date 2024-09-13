@@ -35,6 +35,7 @@ Beneficios y Ventajas
 - **Fácil de Usar:** La interfaz es sencilla y fácil de manejar.
 - **Mejora la Experiencia del Cliente:** Hace que el proceso de pedido sea más facil y útil.
 
-
+---
 **Conclusión**
+--
 Apptigers representa una solución efectiva para los desafíos comunes en la gestión de pedidos en restaurantes de comida rápida. La aplicación mejora la organización, reduce errores y optimiza los tiempos de servicio, beneficiando tanto a los empleados como a los clientes. Su diseño centrado en la facilidad de uso y la eficiencia operativa hace de Apptigers una herramienta valiosa para cualquier restaurante que busque mejorar sus procesos de gestión de pedidos.
