@@ -88,7 +88,7 @@ def main():
                     print("❌ Opción no válida.")
 
             elif opcion == 5:
-                print("Saliendo...")
+                print("Saliendo....")
                 break
 
             else:
